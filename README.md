@@ -6,6 +6,8 @@
 - ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation [[code](https://github.com/microsoft/ProphetNet)]
 - GRAPHCODEBERT: PRE-TRAINING CODE REPRESENTATIONS WITH DATA FLOW. ICLR 2021. [[code](https://github.com/microsoft/CodeBERT)]
 - SCELMO: SOURCE CODE EMBEDDINGS FROM LANGUAGE MODELS
+- CodeBERT: A Pre-Trained Model for Programming and Natural Languages. EMNLP, 2020. [[paper](https://arxiv.org/abs/2002.08155)][[code](https://github.com/microsoft/CodeBERT)]
+
 
 # Automatic-Program-Repair
 - ENCORE: ENSEMBLE LEARNING USING CONVOLUTION NEURAL MACHINE TRANSLATION FOR AUTOMATIC PROGRAM REPAIR
@@ -17,7 +19,6 @@
 - Automatic Software Repair: a Bibliography
 - DeepBugs: A Learning Approach to Name-based Bug Detection
 - CoCoNuT: Combining Context-Aware Neural Translation Models using Ensemble for Program Repair
-- CodeBERT: A Pre-Trained Model for Programming and Natural Languages
 - Getafix: Learning to Fix Bugs Automatically
 - Generating Bug-Fixes Using Pretrained Transformers
 - Neural Bug Finding: A Study of Opportunities and Challenges
